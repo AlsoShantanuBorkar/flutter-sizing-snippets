@@ -1,1 +1,120 @@
-{}
+{
+    "SizedBox with width 2": {
+        "prefix": "hor2",
+        "body": [
+            "const SizedBox(width: 2),"
+        ],
+        "description": "Inserts a SizedBox with a width of 2"
+    },"SizedBox with width 4": {
+        "prefix": "hor4",
+        "body": [
+            "const SizedBox(width: 4),"
+        ],
+        "description": "Inserts a SizedBox with a width of 4"
+    },"SizedBox with width 6": {
+        "prefix": "hor6",
+        "body": [
+            "const SizedBox(width: 6),"
+        ],
+        "description": "Inserts a SizedBox with a width of 6"
+    },"SizedBox with width 8": {
+        "prefix": "hor8",
+        "body": [
+            "const SizedBox(width: 8),"
+        ],
+        "description": "Inserts a SizedBox with a width of 8"
+    },"SizedBox with width 10": {
+        "prefix": "hor10",
+        "body": [
+            "const SizedBox(width: 10),"
+        ],
+        "description": "Inserts a SizedBox with a width of 10"
+    },"SizedBox with width 16": {
+        "prefix": "hor16",
+        "body": [
+            "const SizedBox(width: 16),"
+        ],
+        "description": "Inserts a SizedBox with a width of 16"
+    },"SizedBox with width 32": {
+        "prefix": "hor32",
+        "body": [
+            "const SizedBox(width: 32),"
+        ],
+        "description": "Inserts a SizedBox with a width of 32"
+    },"SizedBox with width 64": {
+        "prefix": "hor64",
+        "body": [
+            "const SizedBox(width: 64),"
+        ],
+        "description": "Inserts a SizedBox with a width of 64"
+    },"SizedBox with width double.maxFinite": {
+        "prefix": "horMax",
+        "body": [
+            "const SizedBox(width: double.maxFinite),"
+        ],
+        "description": "Inserts a SizedBox with a width of double.maxFinite"
+    },
+    "SizedBox with height 2": {
+        "prefix": "ver2",
+        "body": [
+            "const SizedBox(height: 2),"
+        ],
+        "description": "Inserts a SizedBox with a height of 2"
+    },
+    "SizedBox with height 4": {
+        "prefix": "ver4",
+        "body": [
+            "const SizedBox(height: 4),"
+        ],
+        "description": "Inserts a SizedBox with a height of 4"
+    },
+    "SizedBox with height 6": {
+        "prefix": "ver6",
+        "body": [
+            "const SizedBox(height: 6),"
+        ],
+        "description": "Inserts a SizedBox with a height of 6"
+    },
+    "SizedBox with height 8": {
+        "prefix": "ver8",
+        "body": [
+            "const SizedBox(height: 8),"
+        ],
+        "description": "Inserts a SizedBox with a height of 8"
+    },
+    "SizedBox with height 10": {
+        "prefix": "ver10",
+        "body": [
+            "const SizedBox(height: 10),"
+        ],
+        "description": "Inserts a SizedBox with a height of 10"
+    },
+    "SizedBox with height 16": {
+        "prefix": "ver16",
+        "body": [
+            "const SizedBox(height: 16),"
+        ],
+        "description": "Inserts a SizedBox with a height of 16"
+    },
+    "SizedBox with height 32": {
+        "prefix": "ver32",
+        "body": [
+            "const SizedBox(height: 32),"
+        ],
+        "description": "Inserts a SizedBox with a height of 32"
+    },
+    "SizedBox with height 64": {
+        "prefix": "ver64",
+        "body": [
+            "const SizedBox(height: 64),"
+        ],
+        "description": "Inserts a SizedBox with a height of 64"
+    },
+    "SizedBox with height double.maxFinite": {
+        "prefix": "verMax",
+        "body": [
+            "const SizedBox(height: double.maxFinite),"
+        ],
+        "description": "Inserts a SizedBox with a height of double.maxFinite"
+    },
+}
