@@ -4,6 +4,7 @@
   "description": "Easy to use snippets to quickly add horizontal and vertical space in Flutter!",
   "version": "0.0.1",
   "publisher": "AlsoShantanuBorkar",
+  "icon": "assets/icon_flutter.png",
   "sponsor": {
     "url": "https:https://github.com/AlsoShantanuBorkar"
   },
@@ -15,6 +16,12 @@
   },
   "categories": [
     "Snippets"
+  ],
+  "keywords": [
+    "dart",
+    "snippet",
+    "flutter",
+    "widgets"
   ],
   "contributes": {
     "snippets": [
