@@ -1,7 +1,7 @@
 {
   "name": "flutter-sizing-snippets",
-  "displayName": "Flutter Sizing Widgets",
-  "description": "Easy to use snippets to quickly add horizontal and vertical padding in Flutter!",
+  "displayName": "Flutter Sizing Snippets",
+  "description": "Easy to use snippets to quickly add horizontal and vertical space in Flutter!",
   "version": "0.0.1",
   "publisher": "AlsoShantanuBorkar",
   "sponsor": {
