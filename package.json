@@ -3,6 +3,13 @@
   "displayName": "flutter-sizing-snippets",
   "description": "Easy to use snippets to quickly add horizontal and vertical padding in Flutter!",
   "version": "0.0.1",
+  "publisher": "AlsoShantanuBorkar",
+  "sponsor": {
+    "url": "https:https://github.com/AlsoShantanuBorkar"
+  },
+  "repository": {
+    "url": "https://github.com/AlsoShantanuBorkar/flutter-sizing-snippets"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
