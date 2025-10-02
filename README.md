@@ -4,7 +4,7 @@ Helpful Flutter snippets to easily add sized boxes and paddings
 
 ## Features
 
-Simple snippets to add SizedBox with vertical and verizontal heights
+Simple snippets to add SizedBox Widget with height & width
 
 ### Horizontal SizedBox
 
